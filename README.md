@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com teste de software
 - 🌱 Estudando Javascript e a ferramenta de automação de testes Cypress
-- 😄 Pronomes: ele/dele 
 ##
 
 <div align="center">
