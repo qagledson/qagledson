@@ -1,4 +1,4 @@
-## Oii, eu sou Gledson Nascimento!
+## Oii! eu sou Gledson Nascimento 🖐️
 
 - 🔭 Hoje trabalho com teste de software
 - 🌱 Estudando Javascript e a ferramenta de automação de testes Cypress
