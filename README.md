@@ -1,7 +1,7 @@
 ## Oii! eu sou o Gledson Nascimento 🖐️
 
-- 🔭 Hoje trabalho com teste de software
-- 🌱 Estudando Javascript e a ferramenta de automação de testes Cypress
+- 🔭 Trabalho com teste de software
+- 🌱 Estudando automação de testes com Cypress e Robot Framework
 ##
 
 <div align="center">
